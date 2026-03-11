@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: agent-freamwork-app
+  profiles:
+    active: dev
